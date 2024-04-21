@@ -1,0 +1,62 @@
+- Eggs (1 dozen)
+- Spinach (1 bunch)
+- Feta cheese (1 block)
+- Chicken breast (4 pieces)
+- Romaine lettuce (1 head)
+- Parmesan cheese (1 block)
+- Caesar dressing (1 bottle)
+- Croutons (1 packet)
+- Bacon (1 packet)
+- Spaghetti (1 packet)
+- Black pepper
+- Greek yogurt (1 tub)
+- Berries (e.g., strawberries, blueberries, raspberries)
+- Soy sauce
+- Sugar
+- Mirin
+- Oil (olive oil, vegetable oil)
+- Chickpeas (1 can)
+- Onion (2)
+- Tomato (2)
+- Garlic (1 bulb)
+- Ginger
+- Spices (cumin, coriander, turmeric)
+- Pizza dough
+- Tomatoes (2)
+- Fresh mozzarella cheese (1 ball)
+- Fresh basil
+- Avocado (2)
+- Cilantro
+- Lime juice
+- Tortilla chips
+- Rice
+- Chicken broth
+- Green onion
+- Turkey breast (sliced, 1 packet)
+- Lettuce (1 head)
+- Tomato (2)
+- Mayonnaise
+- Bread (1 loaf)
+- Jerk seasoning
+- Coconut milk
+- Kidney beans (1 can)
+- Thyme
+- Green onion
+- Dashi stock
+- Miso paste
+- Tofu
+- Wakame seaweed
+- Flour
+- Milk
+- Butter
+- Baking powder
+- Sugar
+- Maple syrup
+- Assorted vegetables (e.g., bell peppers, broccoli, carrots)
+- Mozzarella cheese (1 block)
+- Bread crumbs
+- Marinara sauce
+- Mango (2)
+- Red bell pepper (1)
+- Red onion (1)
+
