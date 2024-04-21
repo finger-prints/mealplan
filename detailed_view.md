@@ -104,18 +104,7 @@
     - Salt
     - Optional: Protein (chicken, pork, shrimp)
 
-- **Lunch:** American-style Turkey Club Sandwich
-  - [Recipe](https://www.delish.com/cooking/recipe-ideas/a28241462/classic-turkey-club-sandwich-recipe/)
-  - Preparation Time: 15 minutes
-  - Ingredients:
-    - Turkey breast
-    - Bacon
-    - Lettuce
-    - Tomato
-    - Mayonnaise
-    - Bread
-
-- **Dinner:** Caribbean Jerk Chicken with Rice and Peas
+- **Lunch:** Caribbean Jerk Chicken with Rice and Peas
   - [Recipe](https://www.bbcgoodfood.com/recipes/jerk-chicken-rice-peas)
   - Preparation Time: 45 minutes
   - Ingredients:
@@ -130,15 +119,31 @@
     - Green onion
     - Salt
 
-- **Snack:** Japanese Miso Soup
-  - [Recipe](https://www.justonecookbook.com/miso-soup/)
+- **Dinner:** Chinese Beef and Broccoli Stir-Fry
+  - [Recipe](https://www.allrecipes.com/recipe/228293/chinese-beef-broccoli/)
+  - Preparation Time: 30 minutes
+  - Ingredients:
+    - Beef (sirloin or flank steak)
+    - Broccoli
+    - Soy sauce
+    - Garlic
+    - Ginger
+    - Oil
+    - Cornstarch
+    - Salt
+    - Pepper
+
+- **Snack:** Latin-inspired Mango Salsa with Tortilla Chips
+  - [Recipe](https://www.simplyrecipes.com/recipes/fresh_mango_salsa/)
   - Preparation Time: 15 minutes
   - Ingredients:
-    - Dashi stock
-    - Miso paste
-    - Tofu
-    - Wakame seaweed
-    - Green onion
+    - Mango
+    - Red bell pepper
+    - Red onion
+    - Cilantro
+    - Lime juice
+    - Salt
+    - Tortilla chips
 
 ### Wednesday:
 - **Breakfast:** American-style Pancakes with Maple Syrup
@@ -154,41 +159,45 @@
     - Salt
     - Maple syrup
 
-- **Lunch:** Chinese Stir-Fried Vegetables with Tofu
-  - [Recipe](https://www.thespruceeats.com/basic-stir-fried-vegetables-with-tofu-695319)
-  - Preparation Time: 25 minutes
-  - Ingredients:
-    - Tofu
-    - Assorted vegetables (e.g., bell peppers, broccoli, carrots)
-    - Soy sauce
-    - Garlic
-    - Ginger
-    - Oil
-    - Salt
-
-- **Dinner:** Italian-style Chicken Parmesan
-  - [Recipe](https://www.foodnetwork.com/recipes/giada-de-laurentiis/chicken-parmesan-recipe-1914674)
+- **Lunch:** Latin-inspired Chicken Tinga Tacos
+  - [Recipe](https://www.simplyrecipes.com/recipes/chicken_tinga/)
   - Preparation Time: 40 minutes
   - Ingredients:
-    - Chicken breasts
-    - Eggs
-    - Bread crumbs
-    - Marinara sauce
-    - Mozzarella cheese
-    - Parmesan cheese
+    - Chicken thighs
+    - Onion
+    - Tomato
+    - Chipotle peppers in adobo sauce
+    - Garlic
+    - Bay leaves
+    - Oregano
+    - Oil
+    - Salt
+    - Tortillas
+    - Optional toppings: avocado, cilantro, lime
+
+- **Dinner:** Japanese Teriyaki Beef with Rice
+  - [Recipe](https://www.justonecookbook.com/teriyaki-beef-don/)
+  - Preparation Time: 30 minutes
+  - Ingredients:
+    - Beef (sirloin or flank steak)
+    - Soy sauce
+    - Mirin
+    - Sugar
+    - Oil
+    - Green onion
+    - Sesame seeds
+    - Rice
+    - Optional: Vegetables (e.g., broccoli, carrots)
+
+- **Snack:** Italian Bruschetta with Tomato and Basil
+  - [Recipe](https://www.foodnetwork.com/recipes/ina-garten/bruschetta-with-tomatoes-and-basil-recipe-1951606)
+  - Preparation Time: 15 minutes
+  - Ingredients:
+    - Baguette
+    - Tomatoes
+    - Garlic
+    - Fresh basil
     - Olive oil
     - Salt
     - Pepper
-
-- **Snack:** Latin-inspired Mango Salsa with Tortilla Chips
-  - [Recipe](https://www.simplyrecipes.com/recipes/fresh_mango_salsa/)
-  - Preparation Time: 15 minutes
-  - Ingredients:
-    - Mango
-    - Red bell pepper
-    - Red onion
-    - Cilantro
-    - Lime juice
-    - Salt
-    - Tortilla chips
 

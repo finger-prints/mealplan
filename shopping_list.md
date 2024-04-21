@@ -16,9 +16,9 @@
 - Mirin
 - Oil (olive oil, vegetable oil)
 - Chickpeas (1 can)
-- Onion (2)
-- Tomato (2)
-- Garlic (1 bulb)
+- Onion (3)
+- Tomato (4)
+- Garlic (2 bulbs)
 - Ginger
 - Spices (cumin, coriander, turmeric)
 - Pizza dough
@@ -41,7 +41,6 @@
 - Coconut milk
 - Kidney beans (1 can)
 - Thyme
-- Green onion
 - Dashi stock
 - Miso paste
 - Tofu
@@ -52,11 +51,14 @@
 - Baking powder
 - Sugar
 - Maple syrup
-- Assorted vegetables (e.g., bell peppers, broccoli, carrots)
-- Mozzarella cheese (1 block)
-- Bread crumbs
-- Marinara sauce
-- Mango (2)
+- Beef (sirloin or flank steak)
+- Broccoli
+- Cornstarch
 - Red bell pepper (1)
 - Red onion (1)
+- Chipotle peppers in adobo sauce
+- Bay leaves
+- Oregano
+- Sesame seeds
+- Baguette
 
